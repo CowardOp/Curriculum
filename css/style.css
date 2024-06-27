@@ -1,11 +1,13 @@
 body {
   background-color: #0c0c0c;
+  color: #f6f6f6;
 }
 
 main {
-  color: #ffffff;
+  width: 1247px;
+  height: 1554.5px;
 }
 
 strong {
-  color: #4682b4;
+  color: #22d4fd;
 }
