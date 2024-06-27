@@ -27,7 +27,27 @@ strong {
   left: 245px;
 }
 
-.group-one h1 {
+.text {
+  width: 593px;
+  height: 371px;
+}
+.text h1 {
+  width: 493px;
+  height: 168px;
+  font-size: 36px;
+}
+
+.text p {
+  width: 593px;
+  height: 216px;
+}
+
+.group-one a {
+  width: 280px;
+  height: 79px;
+  gap: 16px;
+  border-radius: 16px;
+  background-color: #22d4fd;
 }
 
 img {
