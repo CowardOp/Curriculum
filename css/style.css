@@ -4,10 +4,27 @@ body {
 }
 
 main {
+  display: flex;
   width: 1247px;
   height: 1554.5px;
 }
 
 strong {
   color: #22d4fd;
+}
+
+.group-one {
+  position: absolute;
+  width: 482px;
+  height: 615px;
+  top: 289px;
+  left: 345px;
+}
+
+img {
+  position: absolute;
+  width: 488px;
+  height: 550px;
+  top: 235px;
+  left: 1030px;
 }
